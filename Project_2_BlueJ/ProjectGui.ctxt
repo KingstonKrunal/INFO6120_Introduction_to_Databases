@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ProjectGui
+comment0.text=\n\ GUI\ for\ Project1\ to\ interact\ with\ sakila.db\n\n\ @author\ Krunal\ Shah\n
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment1.text=\n\ The\ start\ method\ is\ the\ main\ entry\ point\ for\ every\ JavaFX\ application.\ \n\ It\ is\ called\ after\ the\ init()\ method\ has\ returned\ and\ after\ \n\ the\ system\ is\ ready\ for\ the\ application\ to\ begin\ running.\n\n\ @param\ \ stage\ the\ primary\ stage\ for\ this\ application.\n
+comment2.params=event
+comment2.target=void\ addActor(javafx.event.ActionEvent)
+comment2.text=\n\ This\ will\ be\ executed\ when\ the\ add\ button\ is\ clicked\n
+comment3.params=event
+comment3.target=void\ removeActor(javafx.event.ActionEvent)
+comment3.text=\n\ This\ will\ be\ executed\ when\ the\ remove\ button\ is\ clicked\n
+comment4.params=event
+comment4.target=void\ refreshList(javafx.event.ActionEvent)
+comment4.text=\n\ This\ will\ be\ executed\ when\ the\ refresh\ button\ is\ clicked\n
+numComments=5
